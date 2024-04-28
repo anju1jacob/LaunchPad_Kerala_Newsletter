@@ -1,0 +1,37 @@
+
+body{
+    background-color: #000;
+    color: #fff;
+}
+
+.container {
+    background-color: #1c1b1b; /* Dark gray background */
+    border: 2px solid #fff; /* White border */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 1000px; /* Adjust width as needed */
+}
+
+.section {
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+.headings {
+    color: rgb(232, 75, 13); 
+    font-size: 2rem;
+}
+button{
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(232, 75, 13);
+    color: #fff;
+    font-weight: 900;
+
+}
+ul li{
+    font-weight: 900;
+}
